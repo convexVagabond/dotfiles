@@ -1,0 +1,5 @@
+2020/07/02-17:55:56.546 2605 Reusing MANIFEST /home/cnvx/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/02-17:59:01.035 2d27 Level-0 table #5: started
+2020/07/02-17:59:01.097 2d27 Level-0 table #5: 2162 bytes OK
+2020/07/02-17:59:01.127 2d27 Delete type=0 #3
+2020/07/02-17:59:01.128 2d27 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

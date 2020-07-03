@@ -1,0 +1,8 @@
+2020/07/02-11:39:17.725 96a Recovering log #139
+2020/07/02-11:39:17.747 96a Level-0 table #142: started
+2020/07/02-11:39:17.780 96a Level-0 table #142: 3251 bytes OK
+2020/07/02-11:39:17.873 96a Delete type=0 #139
+2020/07/02-11:39:17.873 96a Delete type=3 #59
+2020/07/02-11:40:31.227 bae Level-0 table #145: started
+2020/07/02-11:40:31.312 bae Level-0 table #145: 7466 bytes OK
+2020/07/02-11:40:31.350 bae Delete type=0 #143

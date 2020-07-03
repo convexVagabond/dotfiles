@@ -1,0 +1,5 @@
+2020/07/03-09:42:27.258 22eab Reusing MANIFEST /home/cnvx/.config/chromium/Default/IndexedDB/https_monkey-type.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/03-09:51:37.140 1d258 Level-0 table #5: started
+2020/07/03-09:51:37.174 1d258 Level-0 table #5: 2823 bytes OK
+2020/07/03-09:51:37.205 1d258 Delete type=0 #3
+2020/07/03-09:51:37.205 1d258 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

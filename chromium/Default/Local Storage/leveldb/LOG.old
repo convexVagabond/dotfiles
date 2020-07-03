@@ -1,0 +1,21 @@
+2020/07/02-17:47:59.115 1f59 Reusing MANIFEST /home/cnvx/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/07/02-17:47:59.145 1f59 Recovering log #70
+2020/07/02-17:47:59.222 1f59 Reusing old log /home/cnvx/.config/chromium/Default/Local Storage/leveldb/000070.log 
+2020/07/02-18:28:15.906 6b79 Level-0 table #73: started
+2020/07/02-18:28:15.967 6b79 Level-0 table #73: 63210 bytes OK
+2020/07/02-18:28:16.005 6b79 Delete type=0 #70
+2020/07/02-18:36:07.150 6b79 Level-0 table #75: started
+2020/07/02-18:36:07.219 6b79 Level-0 table #75: 386840 bytes OK
+2020/07/02-18:36:07.250 6b79 Delete type=0 #72
+2020/07/02-18:45:38.780 6b79 Level-0 table #77: started
+2020/07/02-18:45:38.867 6b79 Level-0 table #77: 396038 bytes OK
+2020/07/02-18:45:38.899 6b79 Delete type=0 #74
+2020/07/02-18:45:38.899 6b79 Compacting 4@0 + 1@1 files
+2020/07/02-18:45:38.945 6b79 Generated table #78@0: 63 keys, 461718 bytes
+2020/07/02-18:45:38.945 6b79 Compacted 4@0 + 1@1 files => 461718 bytes
+2020/07/02-18:45:38.976 6b79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/02-18:45:38.976 6b79 Delete type=2 #69
+2020/07/02-18:45:38.976 6b79 Delete type=2 #73
+2020/07/02-18:45:38.976 6b79 Delete type=2 #75
+2020/07/02-18:45:38.976 6b79 Delete type=2 #77
+2020/07/02-18:45:38.976 6b79 Delete type=2 #67

@@ -1,0 +1,28 @@
+2020/07/02-17:48:04.803 1f94 Reusing MANIFEST /home/cnvx/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/07/02-17:48:04.803 1f94 Recovering log #252
+2020/07/02-17:48:05.242 1f94 Level-0 table #257: started
+2020/07/02-17:48:05.487 1f94 Level-0 table #257: 5366589 bytes OK
+2020/07/02-17:48:05.520 1f94 Delete type=0 #252
+2020/07/02-17:49:07.474 21b1 Level-0 table #260: started
+2020/07/02-17:49:07.673 21b1 Level-0 table #260: 5366389 bytes OK
+2020/07/02-17:49:07.755 21b1 Delete type=0 #258
+2020/07/02-17:49:07.874 21b1 Level-0 table #262: started
+2020/07/02-17:49:08.039 21b1 Level-0 table #262: 5366389 bytes OK
+2020/07/02-17:49:08.075 21b1 Delete type=0 #259
+2020/07/02-17:55:40.175 21b1 Level-0 table #264: started
+2020/07/02-17:55:40.382 21b1 Level-0 table #264: 5366578 bytes OK
+2020/07/02-17:55:40.415 21b1 Delete type=0 #261
+2020/07/02-17:55:40.418 21b1 Compacting 4@0 + 2@1 files
+2020/07/02-17:55:40.671 21b1 Generated table #265@0: 1 keys, 5366384 bytes
+2020/07/02-17:55:40.704 21b1 Generated table #266@0: 6 keys, 388 bytes
+2020/07/02-17:55:40.704 21b1 Compacted 4@0 + 2@1 files => 5366772 bytes
+2020/07/02-17:55:40.736 21b1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/02-17:55:40.737 21b1 Delete type=2 #262
+2020/07/02-17:55:40.738 21b1 Delete type=2 #260
+2020/07/02-17:55:40.738 21b1 Delete type=2 #255
+2020/07/02-17:55:40.738 21b1 Delete type=2 #254
+2020/07/02-17:55:40.738 21b1 Delete type=2 #257
+2020/07/02-17:55:40.738 21b1 Delete type=2 #264
+2020/07/02-18:49:07.783 21b1 Level-0 table #268: started
+2020/07/02-18:49:07.975 21b1 Level-0 table #268: 5366782 bytes OK
+2020/07/02-18:49:08.052 21b1 Delete type=0 #263

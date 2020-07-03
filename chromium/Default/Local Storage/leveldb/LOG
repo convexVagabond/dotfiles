@@ -1,0 +1,6 @@
+2020/07/02-19:10:58.282 9cfe Reusing MANIFEST /home/cnvx/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/07/02-19:10:58.282 9cfe Recovering log #76
+2020/07/02-19:10:58.283 9cfe Reusing old log /home/cnvx/.config/chromium/Default/Local Storage/leveldb/000076.log 
+2020/07/03-07:39:52.322 1c7ef Level-0 table #81: started
+2020/07/03-07:39:52.386 1c7ef Level-0 table #81: 118343 bytes OK
+2020/07/03-07:39:52.420 1c7ef Delete type=0 #76
