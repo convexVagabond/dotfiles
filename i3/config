@@ -60,7 +60,7 @@ bindsym $mod+period exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +1
 # start a terminal
 bindsym $mod+Return exec alacritty
 
-bindsym $mod+grave exec "/home/cnvx/splatmoji/splatmoji --disable-emoji-db type"
+bindsym $mod+grave exec "~/.config/splatmoji/splatmoji --disable-emoji-db type"
 
 bindsym $mod+Shift+s move scratchpad
 bindsym $mod+s scratchpad show
