@@ -1,1 +1,4 @@
+gaia.attached_device_id="8778816e0210a735f2cae19848dad72e58ffad57"
 ui.show_friend_feed=false
+ui.hide_hpto=true
+app.player.autoplay=false

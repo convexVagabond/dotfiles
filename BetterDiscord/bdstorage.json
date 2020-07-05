@@ -2,7 +2,7 @@
     "settings": {
         "stable": {
             "settings": {
-                "bda-gs-1": true,
+                "bda-gs-1": false,
                 "bda-gs-2": false,
                 "bda-gs-3": false,
                 "bda-gs-4": false,

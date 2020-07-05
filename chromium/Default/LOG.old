@@ -1,8 +1,14 @@
-2020/07/02-11:39:17.725 96a Recovering log #139
-2020/07/02-11:39:17.747 96a Level-0 table #142: started
-2020/07/02-11:39:17.780 96a Level-0 table #142: 3251 bytes OK
-2020/07/02-11:39:17.873 96a Delete type=0 #139
-2020/07/02-11:39:17.873 96a Delete type=3 #59
-2020/07/02-11:40:31.227 bae Level-0 table #145: started
-2020/07/02-11:40:31.312 bae Level-0 table #145: 7466 bytes OK
-2020/07/02-11:40:31.350 bae Delete type=0 #143
+2020/07/03-10:00:45.521 255aa Recovering log #144
+2020/07/03-10:00:45.534 255aa Level-0 table #147: started
+2020/07/03-10:00:45.568 255aa Level-0 table #147: 2048 bytes OK
+2020/07/03-10:00:45.663 255aa Delete type=0 #144
+2020/07/03-10:00:45.663 255aa Delete type=3 #141
+2020/07/03-10:00:45.663 9f49 Compacting 4@0 + 1@1 files
+2020/07/03-10:00:45.725 9f49 Generated table #149@0: 4 keys, 745 bytes
+2020/07/03-10:00:45.725 9f49 Compacted 4@0 + 1@1 files => 745 bytes
+2020/07/03-10:00:45.814 9f49 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/03-10:00:45.817 9f49 Delete type=2 #145
+2020/07/03-10:00:45.817 9f49 Delete type=2 #140
+2020/07/03-10:00:45.817 9f49 Delete type=2 #142
+2020/07/03-10:00:45.817 9f49 Delete type=2 #147
+2020/07/03-10:00:45.817 9f49 Delete type=2 #138
